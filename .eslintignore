@@ -1,0 +1,13 @@
+# Ignore built files and directories
+build/
+dist/
+out/
+
+# Ignore configuration files
+.eslintrc.js
+babel.config.js
+
+# Ignore node_modules directory
+node_modules/
+.github/
+**/.vscode/**
